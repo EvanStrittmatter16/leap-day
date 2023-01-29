@@ -37,14 +37,11 @@ might cut this section
 <video src="https://drive.google.com/file/d/1fDA0-eyMvisR0TJL2Yj1mnDoXDn9Ym0X/view?usp=sharing" controls="controls" style="max-width: 730px;">
 </video>
 
+ex of a embeded video:  
+
 <video src="https://user-images.githubusercontent.com/37666670/215351680-2a23c1aa-7d77-488f-a9df-9df7edc08791.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
-ex of a embeded video:  
-
-<!-- -->
-<video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" style="max-width: 730px;">
-</video> 
 
 ### Publications/Talks
 
