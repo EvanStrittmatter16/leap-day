@@ -34,7 +34,10 @@ might cut this section
 <video src="images/IMG_0678.MOV" controls="controls" style="max-width: 730px;">
 </video>
 
-<video src="https://drive.google.com/file/d/1fDA0-eyMvisR0TJL2Yj1mnDoXDn9Ym0X/view?usp=share_link" controls="controls" style="max-width: 730px;">
+<video src="https://drive.google.com/file/d/1fDA0-eyMvisR0TJL2Yj1mnDoXDn9Ym0X/view?usp=sharing" controls="controls" style="max-width: 730px;">
+</video>
+
+<video src="https://drive.google.com/file/d/1fDA0-eyMvisR0TJL2Yj1mnDoXDn9Ym0X/view" controls="controls" style="max-width: 730px;">
 </video>
 
 ex of a embeded video:  
