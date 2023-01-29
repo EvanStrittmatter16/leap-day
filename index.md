@@ -12,8 +12,6 @@ Something about being a junior undergradte passionate about robotics and being c
 
 ## Resume
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
 <img src="images/Resume.jpg" alt="resume" width="1000"/>
 
 ## Projects
@@ -32,6 +30,8 @@ Something about being a junior undergradte passionate about robotics and being c
 might cut this section
 
 ### Projects before Yale
+
+<video src="images/IMG_0678.MOV"/>
 
 ### Publications/Talks
 
