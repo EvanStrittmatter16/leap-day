@@ -37,7 +37,7 @@ might cut this section
 <video src="https://drive.google.com/file/d/1fDA0-eyMvisR0TJL2Yj1mnDoXDn9Ym0X/view?usp=sharing" controls="controls" style="max-width: 730px;">
 </video>
 
-<video src="https://drive.google.com/file/d/1fDA0-eyMvisR0TJL2Yj1mnDoXDn9Ym0X/view" controls="controls" style="max-width: 730px;">
+<video src="https://github.com/EvanStrittmatter16/leap-day/issues/1#issue-1561432404" controls="controls" style="max-width: 730px;">
 </video>
 
 ex of a embeded video:  
