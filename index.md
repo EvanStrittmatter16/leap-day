@@ -16,6 +16,8 @@ Something about being a junior undergradte passionate about robotics and being c
 
 ## Projects
 
+I have been working on engeneering projects since I got my hands on my first aurduino in 4th grade. Here are some of my projects I am most proud of. 
+
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
