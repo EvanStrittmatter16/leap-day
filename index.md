@@ -32,6 +32,7 @@ I have been working on engeneering projects since I got my hands on my first aur
 might cut this section
 
 ### Projects before Yale
+Try to think of a more creative title for this section
 
 <video src="images/IMG_0678.MOV" controls="controls" style="max-width: 730px;">
 </video>
@@ -48,3 +49,4 @@ ex of a embeded video:
 ### Publications/Talks
 
 ### Volunteer work
+Consider cutting this as well unless ... (can replace with something like "Places I care about" and then put in float, code haven, YOSE, Soccer boys)
