@@ -4,6 +4,7 @@ layout: default
 
 # Evan Strittmatter - Portfolio
 
+Change the links in the banner above. Git hub is fine, but instead of downloads, have linked in, email adress
 Might want to include a table of content or something here
 
 ## About Me
@@ -11,6 +12,7 @@ Might want to include a table of content or something here
 Something about being a junior undergradte passionate about robotics and being creative. Introdouce that this is my Portfolio
 
 ## Resume
+Change this to a download link. 
 
 <img src="images/Resume.jpg" alt="resume" width="1000"/>
 
