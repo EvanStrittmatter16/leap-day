@@ -38,7 +38,7 @@ Insert Pictures of project here
 ### Projects before Yale
 Try to think of a more creative title for this section
 
-<video src="images/IMG_0678.MOV" controls="controls" style="max-width: 600px;">
+<video src="images/IMG_0678.MOV" controls="controls" style="max-width: 590px;">
 </video>
 
 ex of a embeded video:  
