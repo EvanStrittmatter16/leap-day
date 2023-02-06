@@ -19,7 +19,7 @@ Something about being a junior undergradte passionate about robotics and being c
 Change this to a download link. 
 <a href="images/Resume.jpg">My Resume</a>
 
-<img src="images/Resume.jpg" alt="resume" width="1000"/>
+<img src="images/Resume.jpg" alt="resume" width="10"/>
 
 ## Projects
 
