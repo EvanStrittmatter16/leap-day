@@ -38,16 +38,11 @@ Insert Pictures of project here
 ### Projects before Yale
 Try to think of a more creative title for this section
 
-<video src="images/IMG_0678.MOV" controls="controls" style="max-width: 730px;">
-</video>
-
-<video src="https://drive.google.com/file/d/1fDA0-eyMvisR0TJL2Yj1mnDoXDn9Ym0X/view?usp=sharing" controls="controls" style="max-width: 730px;">
+<video src="images/IMG_0678.MOV" controls="controls" style="max-width: 600px;">
 </video>
 
 ex of a embeded video:  
 
-<video src="https://user-images.githubusercontent.com/37666670/215351680-2a23c1aa-7d77-488f-a9df-9df7edc08791.mp4" controls="controls" style="max-width: 730px;">
-</video>
 
 
 ### Publications/Talks
