@@ -20,9 +20,7 @@ I am a Junior undergraduate student at Yale University. Ever since I got my hand
 
 
 ## Resume
-Change this to a download link. 
 <a href="images/Resume.jpg">My Resume</a>
-
 
 ## Projects
 
@@ -42,13 +40,7 @@ Insert Pictures of project here
 ### Projects before Yale
 Try to think of a more creative title for this section
 
-<video src="images/IMG_0678.MOV" controls="controls" style="max-width: 590px;">
-</video>
-
-ex of a embeded video:  
-
-<video src="https://www.youtube.com/embed/JLMbpiywVxQ" controls="controls" style="max-width: 590px;">
-</video>
+ex of embended youtube video:
 
 {% include youtube.html id="JLMbpiywVxQ" %} 
 
