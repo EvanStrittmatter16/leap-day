@@ -50,6 +50,9 @@ ex of a embeded video:
 <video src="https://www.youtube.com/embed/JLMbpiywVxQ" controls="controls" style="max-width: 590px;">
 </video>
 
+{% include youtube.html id="JLMbpiywVxQ" %} 
+
+{% include youtube.html id="1O0yazhqaxs" %} 
 
 ### Publications/Talks
 
