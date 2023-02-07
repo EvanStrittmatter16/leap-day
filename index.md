@@ -13,7 +13,11 @@ Might want to include a table of content or something here
 
 ## About Me
 
-Something about being a junior undergradte passionate about robotics and being creative. Introdouce that this is my Portfolio
+Hi I’m Evan Strittmatter
+				Insert picture. Can maybe put my linked in banner pic
+
+I am a Junior undergraduate student at Yale University. Ever since I got my hands on my first Arduino I have been passionate about engineering projects.
+
 
 ## Resume
 Change this to a download link. 
@@ -43,6 +47,8 @@ Try to think of a more creative title for this section
 
 ex of a embeded video:  
 
+<video src="https://www.youtube.com/embed/JLMbpiywVxQ" controls="controls" style="max-width: 590px;">
+</video>
 
 
 ### Publications/Talks
