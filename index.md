@@ -40,11 +40,7 @@ Insert Pictures of project here
 ### Projects before Yale
 Try to think of a more creative title for this section
 
-ex of embended youtube video:
-
-{% include youtube.html id="JLMbpiywVxQ" %} 
-
-{% include youtube.html id="1O0yazhqaxs" %} 
+{% include youtube.html id="FGk78Fa3bWU" %} 
 
 ### Publications and Talks
 May also want to uplaod a pdf and have this link to the pdf
