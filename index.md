@@ -4,7 +4,6 @@ layout: default
 
 # Evan Strittmatter - Portfolio
 
-Change the links in the banner above. Git hub is fine, but instead of downloads, have linked in, email adress
 Might want to include a table of content or something here
 
 *   This is an unordered list following a header.
@@ -16,7 +15,8 @@ Might want to include a table of content or something here
 Hi I’m Evan Strittmatter
 				Insert picture. Can maybe put my linked in banner pic
 
-I am a Junior undergraduate student at Yale University. Ever since I got my hands on my first Arduino I have been passionate about engineering projects.
+I am an undergraduate student at Yale University in my Junior year. Ever since I got my hands on my first Arduino I have been passionate about engineering projects. ” I was in fourth grade, with little understanding of how electricity worked, let alone what a programmable microcontroller was. Yet I was immediately captivated and started working with my mom to make a LED light up. I had no concept then of the thousands of hours I would spend over the next eleven years coding and wiring up increasingly complex creations with this device and others like it. 
+At this point in my career I am focused on accumulating a variety of research experience, particularly concerning sensors and robotics, as the next step along an exciting and fulfilling career path.
 
 
 ## Resume
@@ -24,7 +24,7 @@ I am a Junior undergraduate student at Yale University. Ever since I got my hand
 
 ## Projects
 
-I am a Junior undergraduate student at Yale University. Ever since I got my hands on my first Arduino I have been passionate about engineering projects. Here are my proudest creations
+Over the years I've worked on a wide variety of projects. Here are my proudest creations with applications in Robotics.
 
 ### Control of a Robotic arm
 
