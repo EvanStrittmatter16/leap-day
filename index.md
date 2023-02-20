@@ -28,13 +28,24 @@ Over the years I've worked on a wide variety of projects. Here are my proudest c
 
 ### Control of a Robotic arm
 
-<video width="320" controls>
+For the past year I have been working i
+<video width="320" controls muted>
   <source src="images/RobotHandGrasp.mp4" type="video/mp4">
 </video>
 
-<video width="320" controls>
+<video width="320" controls muted>
   <source src="images/RobotHandWave.mp4" type="video/mp4">
 </video>
+
+<div id="wrapper"> 
+    <video id="home1" width="400" poster="images/video.jpg" controls="controls" preload="none"> 
+        <source type="video/mp4" src="images/RobotHandWave.mp4" /> 
+    </video>
+    <video id="home2" width="400" poster="images/video.jpg" controls="controls" preload="none"> 
+        <source type="video/mp4" src="images/RobotHandGrasp.mp4" /> 
+    </video>
+    <div class="clear"></div> 
+</div>
 
 ### Inductance modeling of an IC in COMSOL at EPC
 
