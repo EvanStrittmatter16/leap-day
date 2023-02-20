@@ -33,10 +33,10 @@ The first step to achieve this is to set up a control system for the robot and d
 
 
 <div id="wrapper"> 
-    <video id="home1" width="300" poster="images/video.jpg" controls="controls" preload="none"> 
+    <video id="home1" width="275" poster="images/video.jpg" controls="controls" preload="none"> 
         <source type="video/mp4" src="images/RobotHandWave.mp4" /> 
     </video>
-    <video id="home2" width="300" poster="images/video.jpg" controls="controls" preload="none"> 
+    <video id="home2" width="275" poster="images/video.jpg" controls="controls" preload="none"> 
         <source type="video/mp4" src="images/RobotHandGrasp.mp4" /> 
     </video>
     <div class="clear"></div> 
