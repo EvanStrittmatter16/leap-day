@@ -28,20 +28,15 @@ Over the years I've worked on a wide variety of projects. Here are my proudest c
 
 ### Control of a Robotic arm
 
-For the past year I have been working i
-<video width="320" controls muted>
-  <source src="images/RobotHandGrasp.mp4" type="video/mp4">
-</video>
+For the past semester, I have been working in the Intelligent Autonomy Lab at Yale, run by Prof. Ian Abraham. Humans are very good at tactile object identification – for example, you can reach into your pocket and distinguishes between your phone, keys, and wallet all without looking. Robots on the others hand struggle with this form of task. My project is to develop a robotic hand and arm which can identify unknown objects through the use of tactile senses. 
+The first step to achieve this is to set up a control system for the robot and direct it to pick up a known object. Working with a grad student, Chuck Wher, we have developed a control system for the robotic system enabling it to move to desired locations and complete certain tasks. This is done in simulation space using the software Mujoco, but I am currently working on adapting it to a real-life counterpart. Check out the videos of the system in action!  
 
-<video width="320" controls muted>
-  <source src="images/RobotHandWave.mp4" type="video/mp4">
-</video>
 
 <div id="wrapper"> 
-    <video id="home1" width="400" poster="images/video.jpg" controls="controls" preload="none"> 
+    <video id="home1" width="200" poster="images/video.jpg" controls="controls" preload="none"> 
         <source type="video/mp4" src="images/RobotHandWave.mp4" /> 
     </video>
-    <video id="home2" width="400" poster="images/video.jpg" controls="controls" preload="none"> 
+    <video id="home2" width="200" poster="images/video.jpg" controls="controls" preload="none"> 
         <source type="video/mp4" src="images/RobotHandGrasp.mp4" /> 
     </video>
     <div class="clear"></div> 
