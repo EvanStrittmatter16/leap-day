@@ -27,7 +27,11 @@ At this point in my career I am focused on accumulating a variety of research ex
 Over the years I've worked on a wide variety of projects. Here are my proudest creations with applications in Robotics.
 
 ### Control of a Robotic arm
+<video width="320" controls>
+  <source src="RobotHandGrasp.mp4" type="video/mp4">
 
+<video width="320" controls>
+  <source src="RobotHandWave.mp4" type="video/mp4">
 
 ### Inductance modeling of an IC in COMSOL at EPC
 
