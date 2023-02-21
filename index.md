@@ -21,7 +21,7 @@ Over the years I've worked on a wide variety of projects. Here are my proudest c
 ### Control of a Robotic arm
 
 For the past semester, I have been working in the Intelligent Autonomy Lab at Yale, run by Prof. Ian Abraham. Humans are very good at tactile object identification – for example, you can reach into your pocket and distinguish between your phone, keys, and wallet all without looking. Robots on the others hand struggle with this form of task. My project is to develop a robotic hand and arm which can identify unknown objects through the use of tactile senses. 
-The first step to achieve this is to set up a control system for the robot and direct it to pick up a known object. Working with a grad student, Chuck Wher, we have developed a control system for the robotic system enabling it to move to desired locations and complete certain tasks. This is done in simulation space using the software Mujoco, but I am currently working on adapting it to a real-life counterpart. Check out the videos of the simulations i've made of a contorler for the robot in action.  
+The first step to achieve this is to set up a control system for the robot and direct it to pick up a known object. Working with a grad student, Chuck Wher, we have developed a control system for the robotic system enabling it to move to desired locations and complete certain tasks. We modeled this in simulation space using the software Mujoco. Check out the videos of the simulations i've made of a contorler for the robot in action.
 
 
 <div id="wrapper"> 
@@ -33,6 +33,11 @@ The first step to achieve this is to set up a control system for the robot and d
     </video>
     <div class="clear"></div> 
 </div>
+
+ I am currently working on adapting it to a real-life counterpart. Heres some of the progress so far.
+ <video id="home1" width="580" poster="images/video.jpg" controls="controls autoplay muted" preload="none"> 
+      <source type="video/mp4" src="images/IMG_0719.mp4" /> 
+  </video>
 
 ### Inductance modeling of an IC in COMSOL at EPC
 
