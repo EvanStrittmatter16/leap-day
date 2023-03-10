@@ -43,7 +43,8 @@ The first step to achieve this is to set up a control system for the robot and d
 
 Over the 2022 Summer, I work at EPC - a semiconductor Company in Los Angeles. A large application of their transistor parts is in Lidar technology as GaN is especially suited for quick switches between forward and reverse biasing. This makes it optimal for Lidar Technology as it means the LED can be activated in high-frequency short bursts, providing accurate readings in quickly adapting environments. EPC sells complete ICs for this circuit, with the limiting factor on the chips being their inductivity. High inductance resists changes in current, even generating a secondary voltage wave in the chip. My job was to model the inductance in the chip in COMSOL to identify regions in the geometry that contribute strongly to the total inductance of the chip, to help find an optimal design. I developed a modeling procedure, as well as tested it on several different designs, to provide the team with insights into promising geometry structures, as well as a method for testing future developments.  
 
-<img src="images/EPC_ModelValidation.png" width="580"/>
+<img src="images/EPC_ModelValidation.png" width="580"/>. 
+
 I can't publish information containing part desin the specific part design, but these pictures show models I developed for test basic properties of a coil. The large picture on the left shows the electric feild vectors inside a coil behaving as expected. The two smaller images demonstraight the skin effect - as frequency increases the currunt crowds closer to the edge of the circular metal conductor.
 Applying these same prociples to the model allow us to make intuitive changes to the model to reduce its natural inductance.
 
