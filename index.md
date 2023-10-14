@@ -7,7 +7,7 @@ layout: default
 
 Hi I’m Evan Strittmatter
 
-I am an undergraduate student at Yale University in my Junior year. Ever since I got my hands on my first Arduino I have been passionate about engineering projects. I was in fourth grade, with little understanding of how electricity worked, let alone what a programmable microcontroller was. Yet I was immediately captivated and started working with my mom to make a LED light up. I had no concept then of the thousands of hours I would spend over the next eleven years coding and wiring up increasingly complex creations with this device and others like it. 
+I am an undergraduate student at Yale University in my Senior year. Ever since I got my hands on my first Arduino I have been passionate about engineering projects. I was in fourth grade, with little understanding of how electricity worked, let alone what a programmable microcontroller was. Yet I was immediately captivated and started working with my mom to make a LED light up. I had no concept then of the thousands of hours I would spend over the next eleven years coding and wiring up increasingly complex creations with this device and others like it. 
 At this point I am focused on accumulating a variety of research experience, particularly concerning sensors and robotics, as the next step along an exciting and fulfilling career path.
 
 
@@ -20,7 +20,7 @@ Over the years I've worked on a wide variety of projects. Here are my proudest c
 
 ### Control of a Robotic arm
 
-For the past semester, I have been working in the Intelligent Autonomy Lab at Yale, run by Prof. Ian Abraham. Humans are very good at tactile object identification – for example, you can reach into your pocket and distinguish between your phone, keys, and wallet all without looking. Robots on the other hand struggle with this form of task. My project is to develop a robotic hand and arm which can identify unknown objects through the use of tactile senses. 
+For the past year, I have been working in the Intelligent Autonomy Lab at Yale, run by Prof. Ian Abraham. Humans are very good at tactile object identification – for example, you can reach into your pocket and distinguish between your phone, keys, and wallet all without looking. Robots on the other hand struggle with this form of task. My project is to develop a robotic hand and arm which can identify unknown objects through the use of tactile senses. 
 The first step to achieve this is to set up a control system for the robot and direct it to pick up a known object. Working with a grad student, Chuck Wher, we have developed a control system for the robot enabling the arm to move to desired locations and grasp. We modeled this in simulation space using the software Mujoco. Check out the simulations I've done of my controller operating the robot.
 
 
@@ -38,7 +38,7 @@ The first step to achieve this is to set up a control system for the robot and d
  I am currently working on adapting it to a real-life counterpart. Heres some of the progress so far.  
  
  <video id="home1" width="580" poster="images/video.jpg" controls="controls autoplay muted" preload="none"> 
-      <source type="video/mp4" src="images/IMG_0719.mp4" /> 
+      <source type="video/mp4" src="images/Arm.mp4" /> 
   </video>
 
 ### Inductance modeling of an IC in COMSOL at EPC
