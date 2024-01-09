@@ -7,16 +7,15 @@ layout: default
 
 Hi I’m Evan Strittmatter
 
-I am an undergraduate student at Yale University in my Senior year. Ever since I got my hands on my first Arduino I have been passionate about engineering projects. I was in fourth grade, with little understanding of how electricity worked, let alone what a programmable microcontroller was. Yet I was immediately captivated and started working with my mom to make a LED light up. I had no concept then of the thousands of hours I would spend over the next eleven years coding and wiring up increasingly complex creations with this device and others like it. 
-At this point I am focused on accumulating a variety of research experience, particularly concerning sensors and robotics, as the next step along an exciting and fulfilling career path.
-
+I am an undergraduate student at Yale University in my senior year, majoring in electrical engineering and computer science. My passion for engineering dates back to the moment I got my hands on my first Arduino. I was in fourth grade, with little understanding of how electricity worked, let alone what a programmable microcontroller was. Yet I was immediately captivated and started working with my mom to make a LED light up. I had no concept then of the thousands of hours I would end up spending coding and wiring up increasingly complex creations with this device and others like it. 
+During my time at Yale, I Have gained valuable work experience in the areas of robotics, semiconductors and sensors. My goal is to find employment which will allow me to continue to develop my skills in these areas. 
 
 ## Resume
 <a href="images/Resume.jpg">My Resume</a>
 
 ## Projects
 
-Over the years I've worked on a wide variety of projects. Here are my proudest creations with applications in Robotics.
+I've worked on a wide variety of projects. Here are my proudest creations with applications in robotics.
 
 ### Intelligent Autonomy Lab
 
