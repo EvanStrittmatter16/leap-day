@@ -21,8 +21,8 @@ I've worked on a wide variety of projects. Here are my proudest creations with a
 
 For the past three semesters, I have been working in the Intelligent Autonomy Lab at Yale, run by Prof. Ian Abraham.
 
-Humans are very good at tactile object identification – for example, you can reach into your pocket and distinguish between your phone, keys, and wallet all without looking. Robots on the other hand struggle with this form of task. My project is to develop a robotic hand and arm which can identify unknown objects through the use of tactile senses. 
-The first step to achieve this is to set up a control system for the robot and direct it to pick up a known object. Working with a grad student, Chuck Wher, we have developed a PD control algorithm for the robot, enabling the arm to move to desired locations and grasp. We modeled this in simulation space using the software Mujoco. Check out the simulations I've done of our controller operating the robot.
+Humans are very good at tactile object identification – for example, you can reach into your pocket and distinguish between your phone, keys, and wallet all without looking. Robots on the other hand struggle to do this. My project is to develop a robotic arm and hand which can identify unknown objects using tactile sense. 
+The first step was to set up a control system for the robot and direct it to pick up a known object. A grad student, Chuck Wher, and I developed a PD control algorithm for the robot, enabling the arm to move to desired locations and grasp. We modeled this in simulation space using the software Mujoco. Check out the simulations I've done of our controller operating the robot.
 
 
 <div id="wrapper"> 
@@ -36,7 +36,7 @@ The first step to achieve this is to set up a control system for the robot and d
 </div> 
   
   
-Still working with Chuck wher, we then adapted our controler to a real-life counterpart. With a similar task in mind, we wanted to establish live user control of the robot via a hand held controler. Here is a video demonstrating a basic implementation of this.
+Chuck Wher and I then adapted our controller to a real-life counterpart. With a similar task in mind, we wanted to establish live user control of the robot via a hand held controler. Here is a video demonstrating a basic implementation of this.
  
  <video id="home1" width="580" poster="images/video.jpg" controls="controls autoplay muted" preload="none"> 
       <source type="video/mp4" src="images/Arm.mp4" /> 
