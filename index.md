@@ -100,4 +100,6 @@ I continued volunteering with the same kind of project at Yale. The Club Code Ha
 #### South Pasadena Tournament of Roses
 Another volunteering community I have enjoyed participating in is the South Pasadena Tournament of Roses. This group centers around constructing the South Pasadena (my hometown) City float. Here I’ve gotten to work on my welding skills as well as getting myself and my brother involved in a community of engineers. I really enjoyed getting to work with my brother on such a large-scale project, watching the float drive through Pasadena at the start of the New Year. Pointing out to my family what parts we had worked on was special.
 
+### Other Passions
+Outside of academics I have found fullfillment as president of the yale mens club soccer teams, a member of a band, and playing board games with my brothers. 
 
