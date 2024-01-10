@@ -15,8 +15,6 @@ During my time at Yale, I Have gained valuable work experience in the areas of r
 
 ## Projects
 
-I've worked on a wide variety of projects. Here are my proudest creations with applications in robotics.
-
 ### Intelligent Autonomy Lab
 
 For the past three semesters, I have been working in the Intelligent Autonomy Lab at Yale, run by Prof. Ian Abraham.
