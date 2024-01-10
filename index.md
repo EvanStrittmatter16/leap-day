@@ -56,13 +56,13 @@ Over the 2022 and 2023 summer, I worked at EPC - a semiconductor company in Los 
 
 #### 2023 Summer Internship
 Two Topics
-##### Thermo modeling
-Developed spectroscopy set up  using monochrometers to perfomr analysis of EPC Fet to determine trap density
+##### Trap Spectroscopy Set-up
+Developed spectroscopy set up  using monochrometers to perfomr analysis of EPC Fet to determine trap density. This provides critical information to the Epitaxy team for process control, as well as device modeling. My setup provides the ability to determine to impact of specific wavelengths of light on backgate current i.e. whether the wavelength is trapping or detrapping electrons.  
 ##### Thermo modeling
 Thermo modeling to understand reason for part failers occuring during Temperature Cycling tests
 
 
-#### 2022 Summer LiDAR IC inductance modeling
+#### 2022 Summer Internship - LiDAR IC inductance modeling
 A major application of their transistor parts is in LiDAR as GaN is especially suited for quick switches between forward and reverse biasing. This makes GaN optimal for LiDAR as it means the LED can be activated in high-frequency short bursts, providing accurate readings in quickly adapting environments. EPC sells complete ICs for this circuit, with the limiting factor on the chips being their inductivity. High inductance resists changes in current, even generating a secondary voltage wave in the chip. My job was to model the inductance in the chip in COMSOL to identify regions in the geometry that contribute strongly to the total inductance of the chip in order to find an optimal design. I developed a modeling procedure and tested it on several different designs to provide the team with insights into promising geometry structures. I also developed a method for testing future iterations of device geometry.  
 
 <img src="images/EPC_ModelValidation.png" width="580"/>. 
