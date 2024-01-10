@@ -56,7 +56,7 @@ During the 2022 and 2023 summers, I worked at EPC - a semiconductor company in L
 #### 2023 Summer Internship
 I took on two separate projects to help resolve ongoing problems at the company.
 ##### Trap Spectroscopy Set-up
-My first project was developing a spectroscopy set up using monochrometers to perform analysis of the EPC Fet to determine trap density. Trap densdity is critical information for the Epitaxy team for process control, as well as device modeling. My setup provides them with the ability to determine the impact of specific wavelengths of light on backgate current, i.e. whether the wavelength is trapping or detrapping electrons.  
+My first project was developing a spectroscopy set up using monochrometers to perform analysis of the EPC Fet to determine trap density. Trap density is critical information for the Epitaxy team for process control, as well as device modeling. My setup provides them with the ability to determine the impact of specific wavelengths of light on backgate current, i.e. whether the wavelength is trapping or detrapping electrons.  
 ##### Thermo modeling
 My second project was thermo modeling in COMSOL to understand the causes for part failures occuring during Temperature Cycling tests. Here I was able to determine how certain design features impact principle and shear stresses in different substrate layers. 
 
