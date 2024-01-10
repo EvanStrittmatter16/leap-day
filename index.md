@@ -35,7 +35,7 @@ The first step was to set up a control system for the robot and direct it to pic
 </div> 
   
   
-Chuck Wher and I then adapted our controller to a real-life counterpart. With a similar task in mind, we wanted to establish live user control of the robot via a hand held controler. Here is a video demonstrating a basic implementation of this.
+Chuck Wher and I then adapted our controller to a real-life counterpart. With a similar task in mind, we wanted to establish live user control of the robot via a hand held controller. Here is a video demonstrating a basic implementation.
  
  <video id="home1" width="580" poster="images/video.jpg" controls="controls autoplay muted" preload="none"> 
       <source type="video/mp4" src="images/Arm.mp4" /> 
