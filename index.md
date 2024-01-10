@@ -51,14 +51,14 @@ Currently, I am working on implementing this new algorithm on a pyhsical system.
 
 ### Inductance modeling of an IC in COMSOL at EPC
 
-Over the 2022 and 2023 summer, I worked at EPC - a semiconductor company in Los Angeles. 
+During the 2022 and 2023 summers, I worked at EPC - a semiconductor company in Los Angeles. 
 
 #### 2023 Summer Internship
-For my internship during the summer of 2023 I took on two seperate projects to help resolve ongoing problems at the company.
+I took on two separate projects to help resolve ongoing problems at the company.
 ##### Trap Spectroscopy Set-up
-My first project was developing a spectroscopy set up using monochrometers to perfomr analysis of the EPC Fet to determine trap density. This provides critical information to the Epitaxy team for process control, as well as device modeling. My setup provides the ability to determine to impact of specific wavelengths of light on backgate current i.e. whether the wavelength is trapping or detrapping electrons.  
+My first project was developing a spectroscopy set up using monochrometers to perform analysis of the EPC Fet to determine trap density. Trap densdity is critical information for the Epitaxy team for process control, as well as device modeling. My setup provides them with the ability to determine the impact of specific wavelengths of light on backgate current, i.e. whether the wavelength is trapping or detrapping electrons.  
 ##### Thermo modeling
-My second project was thermo modeling in COMSOL to understand the causes for part failers occuring during Temperature Cycling tests. Here I was able to determine how certain design features impact principle and shear stresses in different substrate layers. 
+My second project was thermo modeling in COMSOL to understand the causes for part failures occuring during Temperature Cycling tests. Here I was able to determine how certain design features impact principle and shear stresses in different substrate layers. 
 
 
 #### 2022 Summer Internship - LiDAR IC inductance modeling
