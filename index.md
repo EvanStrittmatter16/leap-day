@@ -19,8 +19,9 @@ During my time at Yale, I Have gained valuable work experience in the areas of r
 
 For the past three semesters, I have been working in the Intelligent Autonomy Lab at Yale, run by Prof. Ian Abraham.
 
-Humans are very good at tactile object identification – for example, you can reach into your pocket and distinguish between your phone, keys, and wallet all without looking. Robots on the other hand struggle to do this. My project is to develop a robotic arm and hand which can identify unknown objects using tactile sense. 
-The first step was to set up a control system for the robot and direct it to pick up a known object. A grad student, Chuck Wher, and I developed a PD control algorithm for the robot, enabling the arm to move to desired locations and grasp. We modeled this in simulation space using the software Mujoco. Check out the simulations I've done of our controller operating the robot.
+Humans are great at tactile object identification – for example, you can reach into your pocket and distinguish between your phone, keys, and wallet all without looking. Robots on the other hand struggle to do this. My project is to develop a robotic arm and hand which can identify unknown objects using tactile sense. 
+
+The first step was to set up a control system for the robot and direct it to pick up a known object. A grad student, Chuck Wher, and I developed a PD control algorithm for the robot, enabling the arm to move to desired locations and grasp an object. We modeled this in simulation space using the software Mujoco. Check out the simulations I've done of our controller operating the robot.
 
 
 <div id="wrapper"> 
@@ -40,13 +41,13 @@ Chuck Wher and I then adapted our controller to a real-life counterpart. With a 
       <source type="video/mp4" src="images/Arm.mp4" /> 
   </video>
 
-The next step is improving the control algorithm for the robotic hand in particular. Inorder to achive more complex problem solutions, like object manipulation (especially for unknown objects), a more complex problem formulation and controler is required. An interesting control problem which demonstrates exact motion and timing is music. Here is a video of the robotic hand, again using mujoco to model contacts, with the new control algorithm I developed for it, playing the first nine notes of Für Elise.
+The next step was improving the control algorithm, especially for the robotic hand. In order to achieve more complex problem solutions, such as object manipulation (especially for unknown objects), a more complex problem formulation and controller is required. An interesting control problem which demonstrates exact motion and timing is music. Here is a video of the robotic hand, again using Mujoco to model contacts, with the new control algorithm I developed for it, playing the first nine notes of Für Elise.
 
 <video id="home1" width="290" poster="images/video.jpg" controls="controls autoplay muted" preload="none"> 
       <source type="video/mp4" src="images/Allegro_Control_Piano.mp4" /> 
   </video>
 
-My plan for continuing this project is to implement this new algorithm on a pyhsical system. I also plan to incorperate this with the Robotic arm to reform the combined system.
+Currently, I am working on implementing this new algorithm on a pyhsical system. I also plan to incorporate this with the Robotic arm to reform the combined system.
 
 ### Inductance modeling of an IC in COMSOL at EPC
 
