@@ -77,6 +77,7 @@ Micromachines 2022, 13(1), 141; https://doi.org/10.3390/mi13010141.
 
 I also presented a talk on this topic at the MRS spring convention 2022. 
 
+<a href="Strittmatter_Evan_Senior_Thesis_Fall_Report.pdf">Senior Thesis: Leveraging Control of a Robotic Hand to Play Für Elise</a>
 
 ### Comunities I care about
 
