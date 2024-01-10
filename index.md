@@ -49,7 +49,7 @@ The next step was improving the control algorithm, especially for the robotic ha
 
 Currently, I am working on implementing this new algorithm on a pyhsical system. I also plan to incorporate this with the Robotic arm to reform the combined system.
 
-### Inductance modeling of an IC in COMSOL at EPC
+### Summer Internships at EPC
 
 During the 2022 and 2023 summers, I worked at EPC - a semiconductor company in Los Angeles. 
 
@@ -69,7 +69,7 @@ A major application of their transistor parts is in LiDAR as GaN is especially s
 I can't publish information containing specific part design, but these pictures show models I developed for testing basic properties of a coil. The large picture on the left shows the electric field vectors inside a coil behaving as expected. The two smaller images demonstrate the skin effect - as frequency increases the current crowds closer to the edge of the circular metal conductor.
 Applying these same principles to the model allows the user to make intuitive changes to the model to reduce its natural inductance.
 
-
+    
 
 ### Team Robotics Projects
 I've always had a passion for team robotics. I made this video for my application to Yale, which shows off some of these projects.
@@ -100,5 +100,5 @@ I continued volunteering with the same kind of project at Yale. The Club Code Ha
 Another volunteering community I have enjoyed participating in is the South Pasadena Tournament of Roses. This group centers around constructing the South Pasadena (my hometown) City float. Here I’ve gotten to work on my welding skills as well as getting myself and my brother involved in a community of engineers. I really enjoyed getting to work with my brother on such a large-scale project, watching the float drive through Pasadena at the start of the New Year. Pointing out to my family what parts we had worked on was special.
 
 ### Other Passions
-Outside of academics I have found fullfillment as president of the yale mens club soccer teams, a member of a band, and playing board games with my brothers. 
+Outside of academics I have found fulfillment as president of the Yale men's club soccer team, playing guitar as a member of a band, participating in a variety of outdoor sports and playing board games with my brothers. 
 
