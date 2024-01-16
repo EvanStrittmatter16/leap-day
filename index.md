@@ -11,7 +11,7 @@ I am an undergraduate student at Yale University in my senior year, majoring in 
 During my time at Yale, I Have gained valuable work experience in the areas of robotics, semiconductors and sensors. My goal is to find employment which will allow me to continue to develop my skills in these areas. 
 
 ## Resume
-<a href="images/Resume.jpg">My Resume</a>
+<a href="images/Strittmatter_Evan_Resume.pdf">My Resume</a>
 
 ## Projects
 
